@@ -1,0 +1,7 @@
+/*.zip
+/api
+/error
+/vendor
+/worker
+packaged.yaml
+.vscode

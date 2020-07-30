@@ -1,0 +1,5 @@
+{
+    "Parameters": {
+        "QUEUE_URL": "https://sqs.us-east-1.amazonaws.com/529276214230/aws-sam-golang-example-Queue-Q12J860AETTS"
+    }
+}
