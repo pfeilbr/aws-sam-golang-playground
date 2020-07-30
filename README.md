@@ -3,8 +3,7 @@
 An example API and Worker written in Golang using the Amazon Serverless
 Application Model (AWS SAM).
 
-> modified version of [cpliakas/aws-sam-golang-example](https://github.com/cpliakas/aws-sam-golang-example)
-> switched to use go modules, added the use of local environment variables, and run sam local assuming lambda function role.
+> modified version of [cpliakas/aws-sam-golang-example](https://github.com/cpliakas/aws-sam-golang-example).  switched to use go modules, added the use of local environment variables, and run sam local assuming lambda function role.
 
 ## Overview
 
